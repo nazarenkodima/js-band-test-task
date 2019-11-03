@@ -14,7 +14,8 @@
           "node_modules/html-webpack-plugin/lib/loader.js!static/template.html": 0,
           "node_modules/lodash/lodash.js": 1,
           "node_modules/webpack/buildin/global.js": 2,
-          "node_modules/webpack/buildin/module.js": 3
+          "node_modules/webpack/buildin/module.js": 3,
+          "node_modules/html-webpack-plugin/lib/loader.js!static/index.html": 0
         },
         "usedIds": {
           "0": 0,
@@ -27,7 +28,7 @@
         "byName": {},
         "bySource": {},
         "usedIds": [
-          0
+          1
         ]
       }
     }

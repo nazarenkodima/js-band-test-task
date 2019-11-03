@@ -9,7 +9,7 @@ export const PORT = 3000;
 // Paths
 export { PROJECT_ROOT };
 export const SOURCE = resolve(PROJECT_ROOT, './source');
-export const BUILD = resolve(PROJECT_ROOT, './build');
+export const BUILD = resolve(PROJECT_ROOT, './docs');
 export const STATIC = resolve(PROJECT_ROOT, './static');
 export const RECORDS = resolve(PROJECT_ROOT, './scripts/webpack/records.json');
 
